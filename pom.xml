@@ -9,11 +9,11 @@
 		<version>3.2.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.thinkify</groupId>
+	<groupId>com.myproject</groupId>
 	<artifactId>cabbooking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cabbooking</name>
-	<description>Cab Booking Thinkify Demo project for Spring Boot</description>
+	<description>Cab Booking Spring Boot Demo Project</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
